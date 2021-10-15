@@ -16,7 +16,7 @@ Flag=0
 Available_Domain='xxxx:AP-xxxxx-1-AD-1'
 # 镜像				【【source_id】】
 Image_ID='ocid1.image.oc1.ap-xxxxx-1.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
-# 子网ID				【subnet-id】
+# 子网ID				【subnet_id】
 Subnet_ID='ocid1.subnet.oc1.ap-xxxxx-1.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 # 默认申请ARM 请根据需求自行修改，并测试
 Shape='VM.Standard.A1.Flex'
